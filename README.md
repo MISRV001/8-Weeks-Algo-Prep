@@ -1,7 +1,7 @@
 # Learn Python By Doing
 ## Track the Daily Activities for Python Coding (Feb 13, 2022)
 
-Learning Day : 001 || 13-Feb-22: || (Topic:  || Status: )  
+Learning Day : 001 || 13-Feb-22: || (Topic: Python: Working With Variables || Status: Not-Started)  
 Learning Day : 002 || 14-Feb-22: || (Topic:  || Status: )  
 Learning Day : 003 || 15-Feb-22: || (Topic:  || Status: )  
 Learning Day : 004 || 16-Feb-22: || (Topic:  || Status: )  
