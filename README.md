@@ -63,7 +63,7 @@ Learning Day : 062 || 30-Apr-22: || (Topic:  || Status: )
 Learning Day : 063 || 01-May-22: || (Topic:  || Status: )  
 Learning Day : 064 || 02-May-22: || (Topic:  || Status: )  
 Learning Day : 065 || 03-May-22: || (Topic:  || Status: )  
-Learning Day : 066 || 04-May-22: || (Topic:  || Status: ) - Interview 
+Learning Day : 066 || 04-May-22: || (Topic:  || Status: ) - Interview
 Learning Day : 067 || 05-May-22: || (Topic:  || Status: )  
 Learning Day : 068 || 06-May-22: || (Topic:  || Status: )  
 Learning Day : 069 || 07-May-22: || (Topic:  || Status: )  
